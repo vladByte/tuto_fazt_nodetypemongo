@@ -12,3 +12,5 @@ Tutorial de Faztweb API con Nodejs MongoDB y TypsScript
 - express
 - express-handlebars
 - mongoose
+- handlebars (https://handlebarsjs.com/)
+- path (Para compatibilidad multiplataforma)
